@@ -1,6 +1,4 @@
 #  thisThat
-<iframe width="560" height="315" src="https://www.youtube.com/embed/96YvcBzbkhg" frameborder="0" allowfullscreen></iframe>
-
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## :arrow_up: How to Setup
