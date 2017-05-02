@@ -1,5 +1,5 @@
 #  thisThat
-[![Example image](example.png)
+![Example image](example.png)
 
 ## :arrow_up: How to Setup
 
