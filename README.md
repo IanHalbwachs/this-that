@@ -1,5 +1,5 @@
 #  thisThat
-* Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
+[Example image](example.png)
 
 ## :arrow_up: How to Setup
 
